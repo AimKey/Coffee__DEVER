@@ -588,10 +588,10 @@ hr.r {
 		justify-content: space-between;
 	}
 	.navbar__mobile {
-		width: 40%;
+		width: 100%;
 		border-bottom-right-radius:0;
-		left: 100%;
-		transform: translate(-100%);
+		/* left: 100%;
+		transform: translate(-100%); */
 	}
 	.navbar__mobile .navlist {
 		flex-direction: column;
